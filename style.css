@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color:hsl(217, 54%, 11%) ;
+}
+.root{
+    width: 30%;
+    height: 435px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 20px;
+}
+img{
+    width: 230px;
+    height: 230px;
+    border-radius: 4px;
+    margin-left: 16px;
+    margin-top: 15px;
+}
+.i{
+    width: 13px;
+    height: 13px;
+    margin-left: -1px;
+    margin-left: 6px;
+    margin-right: 5px;
+}
+.zero{
+    color:  hsl(178, 100%, 50%);
+    margin-left: 25px;
+    margin-top: -15px;
+}
+h3{
+    color: white;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.calm, .er{
+    color: rgba(255, 255, 255, 0.503);
+    margin-left: 7px;
+}
+.calm{
+    margin-top: 7px;
+}
+.er{
+    margin-top: -17px;
+}
+.i, .zero{
+    margin-top: -20px;
+}
+.clock{
+    width: 15px;
+    height: 15px;
+    margin-right: -50px;
+    margin-left: 155px;
+}
+.time{
+color:  hsl(215, 51%, 70%);
+margin-left: 177px;
+margin-top: -20px;
+}
+.date{
+    margin-top: -47px;
+}
+hr{
+    width: 85%;
+    margin-top: -8px;
+    margin-left: 17px;
+
+}
+.man{
+    width: 25px;
+    height: 25px;
+}
+.rewhite{
+    margin-left: 50px;
+    margin-top: -25px;
+    color: rgba(255, 255, 255, 0.445);
+}
+.name{
+    margin-left: 125px;
+    margin-top: -19px;
+    color: white;
+}
